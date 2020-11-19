@@ -4,8 +4,7 @@
 [![Build Status](https://github.com/vsn4ik/input-spinner/workflows/Test/badge.svg)](https://github.com/vsn4ik/input-spinner/actions?workflow=Test)
 [![devDependency Status](https://david-dm.org/vsn4ik/input-spinner/dev-status.svg)](https://david-dm.org/vsn4ik/input-spinner?type=dev)
 
-
-A Number-Spinner, Support keyboard operations and continuous changing.
+A Number-Spinner, Support keyboard operations and continuous changing. Forked from the original repo with some additional fixes and compatibility tweaks.
 
 ## Basic usage, it's very simple
 ```html
